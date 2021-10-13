@@ -1,0 +1,4 @@
+export const Actiontype = { 
+    SETPRODUCTS : "SETPRODUCTS",
+    SELECTEDPRODUCT : "SELECTEDPRODUCT"
+};
